@@ -12,7 +12,7 @@ var running;
             el.innerHTML = "";
             str = string.split("");
             running = setTimeout(animate, 100);
-        }, 3000);
+        }, 4000);
     }
 })();
 
