@@ -1,4 +1,4 @@
-var string = "Hello I'm Chandra Sekhar Kallipalli and i'm From Sullurupeta, currently i'm working for phenom, I Love Developing Websites and Algorithms.";
+var string = "Hello I'm Chandra Sekhar Kallipalli and i'm From NELLORE, currently i'm working for phenom, I Love Developing Websites and Algorithms.";
 var str = string.split("");
 var el = document.getElementById('str');
 var running; 
